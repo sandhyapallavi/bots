@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="gmailread.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/07/2020 17:48:01</Property>
+      <Property Name="RunDuration">00:00:48</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="objectcloning.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2020 21:07:48</Property>
+      <Property Name="RunDuration">00:00:57</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="objectcloning2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2020 21:09:44</Property>
+      <Property Name="RunDuration">00:01:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="email.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/07/2020 17:47:12</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="objectcloning3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2020 15:25:01</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="redbus.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/05/2020 21:20:53</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="pdf.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/06/2020 19:00:31</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="pdf to image.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/06/2020 18:31:03</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="string operations.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/06/2020 22:50:27</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="obj.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/06/2020 23:54:34</Property>
+      <Property Name="RunDuration">00:01:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="keystrokes.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/07/2020 21:55:22</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="keystrokes1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/07/2020 23:04:00</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="email automation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/08/2020 12:12:38</Property>
+      <Property Name="RunDuration">00:00:38</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="botjoining.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:35:27</Property>
+      <Property Name="RunDuration">00:01:17</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="recoverytask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:35:27</Property>
+      <Property Name="RunDuration">00:00:37</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="emailruntask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:35:27</Property>
+      <Property Name="RunDuration">00:00:36</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="configurable.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/23/2020 10:58:20</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="configuration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/23/2020 10:21:04</Property>
+      <Property Name="RunDuration">00:00:30</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="taskbotjiontometabot.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 10:19:56</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="promt.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 11:39:10</Property>
+      <Property Name="RunDuration">00:00:34</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="promptfile.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 12:57:55</Property>
+      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PromtTasks.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 13:03:50</Property>
+      <Property Name="RunDuration">00:00:31</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="promprtfolder.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 12:44:51</Property>
+      <Property Name="RunDuration">00:00:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="promptfolder2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 12:55:40</Property>
+      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="botjoin1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:35:33</Property>
+      <Property Name="RunDuration">00:01:58</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="botjoin2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:35:27</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="delshopcluesmails.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 19:56:04</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="anotherbotjoin.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 23:20:52</Property>
+      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="anotherbot2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 23:20:52</Property>
+      <Property Name="RunDuration">00:00:24</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="anotherbot3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/09/2020 23:20:52</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="usecase1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/12/2020 19:13:30</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Exceloutput.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/12/2020 19:13:30</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="practice1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/20/2020 11:35:57</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="notepad practise.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/20/2020 11:41:43</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NotepadTest.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/21/2020 10:05:47</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Notepad1Test.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/21/2020 11:10:21</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="youtubeExample.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/22/2020 11:15:59</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="chromepractice.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/22/2020 14:17:36</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Task kill.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/23/2020 11:06:01</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
